@@ -449,13 +449,13 @@ The progression of the founder:
 		- What acceptable risks are you incurring to achieve those goals more quickly?
 		- When you have to trade off certain values, which ones take priority?
 		- What kind of behavior do you hire, promote, or fire for?
-	
-	#### Build a "Ship of Theseus"
-	
-	- The company is like a Ship of Theseus – all the people may change, but the company should stay the same culturally. Employees should be aware they have responsibility for re-creating the culture as it grows.
-	- Consider office design, written memos, communication channels (eg weekly emails, [Netflix culture deck](https://jobs.netflix.com/culture)) to encourage your cultural values.
-	- Don’t hire so narrowly to fit a stereotype that you end up having groupthink. Hire people who are additive to your culture.
- 
+
+#### Build a "Ship of Theseus"
+
+- The company is like a Ship of Theseus – all the people may change, but the company should stay the same culturally. Employees should be aware they have responsibility for re-creating the culture as it grows.
+- Consider office design, written memos, communication channels (eg weekly emails, [Netflix culture deck](https://jobs.netflix.com/culture)) to encourage your cultural values.
+- Don’t hire so narrowly to fit a stereotype that you end up having groupthink. Hire people who are additive to your culture.
+
 ## 5: The Broader Landscape of Blitzscaling
 
 Reid Hoffman goes extends to address blitzscaling outside the realm of the tech startup.
