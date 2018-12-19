@@ -1,12 +1,9 @@
 ---
-title:
-- type: main
-  text: Blitzscaling
-- type: subtitle
-  text: A summary by Ellen Cheng
-creator:
-- role: author
-  text: Reid Hoffman
+title: Blitzscaling
+abstract: A summary by Ellen Cheng
+author:
+- Reid Hoffman
+- Chris Yeh
 contributor:
 - role: editor
   text: Ellen Cheng
