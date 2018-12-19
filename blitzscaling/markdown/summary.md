@@ -27,6 +27,7 @@ While nominally a business strategy book, Blitzscaling is generally relevant for
 
 
 ## Caveats
+
 Reid Hoffman spends part of his time as a venture capitalist. Much as with Peter Thiel’s Zero to One, be aware of the incentives venture capitalists have to push the "take huge risks, move fast at all costs" narrative, and how these incentives might conflict with yours as a founder:
 
 - VCs need outsized returns on a few companies to [make up most of the returns of their entire portfolio](https://techcrunch.com/2017/06/01/the-meeting-that-showed-me-the-truth-about-vcs/). They’d prefer for each company to go for broke than to be conservative – for a VC, it’s ok for 9 companies to fail if 1 is a blockbuster. In contrast, you only have your one company, and another company’s success is little condolence when yours fails.
@@ -43,9 +44,11 @@ In the most punishing case, your market doesn’t have huge returns of scale or 
 
 Finally, like most startup/management advice, Blitzscaling focuses more on operational best practices, which are repeatable and teachable. It doesn’t teach as much on how to generate the core idea of the business – the best it gets is describing commonalities of previously successful strategies.
 This isn’t the authors’ fault: vetting good ideas that will work is a hard problem, and even professional investors have a low batting average. Plus, many valuable ideas are contrarian and thus by definition unteachable; the more "obviously good" ideas will have been competed away.
+
 To set your expectations, Blitzscaling answers these questions: "What attributes are common to winner-take-all markets, and to strategies that benefit from blitzscaling? When should you blitzscale? And mostly, how do you blitzscale?"
  
 ## Introduction
+
 In markets where Internet technology is a dominant factor, there are powerful winner-take-all dynamics. The first company to achieve a critical mass can dominate its industry for a long time.
 
 The enabler is the Internet – specifically, its power of zero-marginal-cost distribution. The ability to reach millions (or billions) of users and service their needs in an automated way, at nearly no marginal cost, creates situations where a powerful company becomes ever more powerful through positive feedback loops. These second-order effects include network effects, virality.
@@ -101,6 +104,7 @@ A company may be made up of multiple products at different stages of the S-curve
 	- "It’s like harpooning a whale. The good news is you’ve harpooned a whale. The bad news is you’ve harpooned a whale!"
 
 ### 3 Key Techniques of Blitzscaling
+
 1. Business model innovation: how the company makes money
 	- It’s not just about technology. If it were, federal research labs would produce billion dollar companies on a regular basis.
 	- Technology can develop new ways of earning money.
@@ -109,6 +113,7 @@ A company may be made up of multiple products at different stages of the S-curve
 3. Management innovation: scaling the organisation
 
 #### Anecdotes:
+
 - In 2011 Airbnb faced pressure from the German Samwer brothers, who raised $90MM to take on Airbnb in Europe (when Airbnb had just raised $7MM). The Samwer’s demanded 25% of Airbnb’s company to merge. Airbnb dug their heels in and fought. "They forced us to scale faster than we never would have."
 - PayPal was giving away $20 for every new user to grow at 5% a day but losing millions, before they figured out how to cut their losses.
 - Why are so many valuable tech companies located in Silicon Valley? The obvious answers are its concentration of tech talent and venture capital. But more subtly, it’s the appetite for risk, blitzscaling techniques, and intense competition promoting rapid growth relative to less competitive geographies.
@@ -133,9 +138,11 @@ Sometimes the market size for an innovative company is underestimated, because t
 - Amazon grew far beyond its early beachhead in books, which now accounts for less than 7% of sales.
 
 #### 2. Distribution
+
 Many startups focus on product but overlook the importance of distribution. Roughly speaking, there are two general categories: existing networks and word-of-mouth.
 
 ##### Existing networks
+
 - Traditional web models include paid acquisition and SEO.
 Companies also get exposure from existing platforms like Facebook, app stores.
 - Scrappy startups can find ways to co-opt existing networks.
@@ -143,6 +150,7 @@ Companies also get exposure from existing platforms like Facebook, app stores.
 	- Airbnb sent requests to Craigslist posters to replicate their listing on Airbnb.
 
 ##### Word of mouth/virality
+
 - A virality strategy requires good retention, to better increase the number of referrals made.
 - Virality usually requires a free or freemium product. The authors can’t recall a company that grew to massive scale with the virality of a paid product.
 - Examples
@@ -151,6 +159,7 @@ Companies also get exposure from existing platforms like Facebook, app stores.
 	- Dropbox gave perks (extra storage) for inviting friends.
 
 #### 3. High Gross Margins
+
 Gross margins = Revenue – cost of goods sold. This is a good measure of long-term unit economics.
 
 Software companies have high fixed costs and low marginal costs, often above 60%. In contrast, "old economy" businesses like restaurants have low gross margins. [Part of the reason is that the low upfront costs of "old economy" businesses lower the barrier to entry, thus driving down prices; plus moving in meatspace costs money.]
@@ -200,7 +209,7 @@ Use your network and talk to smart people with relevant knowledge
 
 This is a Maserati problem, but it can’t be ignored if you’re growing quickly. 
 
-This includes
+This includes:
 
 - Human limitations
 	- As your team grows, communication and coordination become exponentially more complicated, since (n choose 2) explodes. Team growth requires significant overhauls of management methods (explored later in the book)
@@ -246,6 +255,7 @@ Blitzscaling cites these patterns as provably capable of generating massive busi
 	- Present a constantly updating set of information to increase engagement. Learn what the users like or dislike to improve the feed, and to target more compelling ads.
 
 #### Being Contrarian
+
 It’s hard to find an opportunity in a hot space. If an opportunity is obvious, the chance you’ll be the one who succeeds is low. Furthermore, obvious opportunities will be chased by strong incumbents.
 
 Pursuing an opportunity that conventional wisdom ignores gives you time to refine your strategy. There were plenty of reasons for Google, Facebook, Airbnb, Uber to not work – and in fact many investors passed on them.
@@ -263,6 +273,7 @@ This chapter of Blitzscaling discusses the choice of whether to blitzscale and w
 You should not blitzscale if you’re not at product/market fit, your business model doesn’t work, or if the market conditions aren’t right. If taking on cost, risk, and speed don’t actually confer an advantage, it’s better to follow traditional business rules and wait for the time that blitzscaling becomes appropriate.
 
 More specific conditions for blitzscaling:
+
 - Big new opportunity
 	- Market size and gross margins create enormous potential value, and there isn’t a dominant market leader.
 	- Often, a technological innovation upends existing markets [per Porter, it allows creation of new value chains].
@@ -284,7 +295,7 @@ Blitzscaling are like fighter jet afterburners – you don’t switch them on an
 You stop blitzscaling when your business it outgrowing your current strategy. Warning signs:
 
 - Declining rate of growth (relative to market and competition)
-Worsening unit economics
+- Worsening unit economics
 - Decreasing per-employee productivity
 - Increasing management overhead
 - All of these tend to signal that you’ve reached the ceiling of the market. When you’re moving fast, it’s easy to overshoot, as Groupon did when its daily deals model suffered, and as Twitter did when it overstaffed.
@@ -314,7 +325,7 @@ Rather:
 5. Repeat until you dominate the market.
 6. [Repeat 1-5 for the next market you want to take.]
 
-Examples
+Examples:
 
 - Apple did this first with iPod, then iTunes, then iPhone, then iPad.
 - Facebook did this first with desktop, then mobile.
@@ -343,34 +354,34 @@ The progression of the founder:
 
 ### Eight Key Transitions
 
-- Small teams to large teams
+1. Small teams to large teams
 	- Hierarchy needs to be built. Flat orgs haven’t worked.
-- Generalists to specialists
+2. Generalists to specialists
 	- "The marines take the beach, the army takes the country, and the police govern the country." The types of people needed at each stage change.
 	- In the beginning up until 100 people, you should tend to hire generalists.
 	- At Village stage, specialists are critical to scale. They perform functions better than generalists can, and you need them sooner than generalists can learn. Thus specialists may need to be hired from outside the org.
 		- This can cause resentment from people who have stayed from the beginning. Set expectations clear from the beginning – just because they’re running engineering now doesn’t guarantee they’ll be VP of engineering at 1000 employees.
 		- Use "tours of duty" model partly to help explain away why they won’t be promoted. They advanced their careers and can now do great things elsewhere.
 	- But keep hiring generalists to be the undifferentiated stem cells of your org to handle the riskier and undefined problems.
-- Managers to executives
+3. Managers to executives
 	- Managers manage contributors and execute detailed day-to-day plans; executive manage managers.
 	- Managers can be trained from within because contributors learn from good managers.
 	- Executives are initially harder to train because managers in your org don’t have model executives to learn from. Hire from outside, preferably execs who’ve been in similar stage companies before and dealt with similar issues. Then, as you have a successful exec model for managers to learn from, promote within.
 	- To decrease resentment for outside hires, 1) hire someone who’s known to a member of the team, 2) bring exec in at a lower level and let her prove herself before promotion.
 	- Company-specific "secret sauce" items may need to be grown from the inside, if few execs have the specialty.
-- Dialogue to broadcasting
+4. Dialogue to broadcasting
 	- At some point you can no longer have 1-on-1s with everyone, or even fit everyone into the same room. But you need to continue getting input from smart people, making everyone feel heard, and conveying key messages to people you don’t work with directly.
 	- Have weekly all-hands, transitioning to monthly/quarterly as you get into village stage.
 	- Communicate at scale. Write thoughtful weekly emails about challenges. Record videos.
 	- For remote team members, consider 24/7 videoconference, async tools.
-- Inspiration to data
+5. Inspiration to data
 	- Focus on 3-5 metrics that form the core of your business. Otherwise, improvisation can lead to aimless riffing.
 	- Make the metrics easy to access and provide clear context. A commonly accessible dashboard helps.
 	- Avoid vanity metrics that are always up and to the right (views, installs). Use cohort metrics instead.
 	- Be careful about the implications of your metrics.
 	- On your homepage, increasing CTR for low performing CTAs may mean nerfing stronger CTAs at the expense of overall conversions.
 	- Focusing on pages per viewer might incentivize more confusing and fragmented content.
-- Singlethreading to multithreading
+6. Single focus to multithreading
 	- As an early startup, you must have a laser focus on what you’re doing. This allows you to evade larger rivals who have your product as a #35 priority.
 	- Eventually (around City stage) you need to focus on more things, like:
 		- New product expansions
@@ -378,14 +389,14 @@ The progression of the founder:
 		- New business lines
 	- Think of each thread as a different company with its own incentives, but make sure the thread ties back to the company and the thread doesn’t go rogue.
 		- Present the opportunity as "building an app on top of a platform" so leaders don’t lean toward building their own company.
-- Pirate to navy
+7. Pirate to navy
 	- You can start by brazenly breaking laws and common rules, but eventually you need to respect the rules.
 	- How do you tell if you’re an ethical pirate? Ask "am I trying to change the rules for everyone, or just trying to get a personal exemption?
-- Offense to defense
-	- Think "how can we lock out the competition? If we were trying to defeat ourselves, what would we do? As a startup? As the large incumbent?"
-	- Consider acquisitions.
-	- Consider diversionary attacks to distract competitors, while you focus on your core.
-- Founder to leader
+ - Offense to defense
+		- Think "how can we lock out the competition? If we were trying to defeat ourselves, what would we do? As a startup? As the large incumbent?"
+		- Consider acquisitions.
+		- Consider diversionary attacks to distract competitors, while you focus on your core.
+8. Founder to leader
 	- You need to step back from fighting fires and day-to-day decisions to the bigger picture. Three ways to scale yourself:
 	- Delegation: people do work you previously did
 		- A person won’t do as well as you do it now, but they’ll learn over time.
@@ -399,38 +410,38 @@ The progression of the founder:
 
 ### Nine Counterintuitive Rules of Blitzscaling
 
-- Embrace Chaos
+1. Embrace Chaos
 	- This is a mindset thing. Get comfortable taking action in uncertainty. Believe that things will get figured out as you take action.
 	- Have a Plan A, Plan B, and Plan Z (fallback for worst-case scenario)
-- Hire Ms. Right Now, Not Ms. Right
+2. Hire Ms. Right Now, Not Ms. Right
 	- Don’t prematurely optimize for someone who will be great at a later stage in the company. You need the right person for your current situation. Otherwise you might never make it to the later stage.
 	- People tend to have a preferred stage and few excel at being an individual contributor, a manager, and an executive. . See if the hire is self-aware of this.
-- Tolerate "bad" management
+3. Tolerate "bad" management
 	- Be OK with breaking best practices of standard management. You might need to reorg the company 3 times a year, churn through management teams, unclear career progression, and having confusing job titles. This keeps the company nimble. You trade organizational risk in exchange for focusing wholly on growth.
 	- "Internal chaos normalizes radical change for your team, which means they’re better able to adjust to radical changes thrown at you." [paraphrased. I suspect employees don’t appreciate this logic.]
-- Launch a product that embarrasses you
+4. Launch a product that embarrasses you
 	- Lean startup style [tk link]. Always launch before you feel the product is fully ready. Otherwise, you’ll waste time building things no one cares about.
 	- Don’t cross the line so far into having fatal flaws that endanger your customers or reputation. Hoffman says paid consumer products have the least room for error, since they’ll expect products to be nearly perfect and will complain publicly about flaws.
 	- Once you launch, listen to the data more than anecdotal user feedback. People are bad at articulating what they want.
-- Let fires burn
+5. Let fires burn
 	- Triage fires. Deal with urgent systemic risks (like an Airbnb house trashed). For important but not critical problems, put in a hack fix, committing to solving it later. Punt all other issues.
 	- If someone wheels into the ER with a gunshot wound, you don’t excise a suspicious cancer you find along the way.
 	- Hoffman considers issues in this order of descending importance: Distribution > Product > Revenue model > Operations > Competition > What’s next?
 		- In general, each top one solves all the other bottom problems.
 	- Which issues will be impossible to fix later? (Cultural problems might count)
-- Do things that don’t scale
+6. Do things that don’t scale
 	- [Paul Graham’s original point](http://paulgraham.com/ds.html) here is that the founders need to put in a lot of elbow grease to recruit users, hire, run operations, understand what makes a delightful customer experience. (Airbnb founders taking photos of rooms themselves).
 	- Hoffman extends this to mean do things that temporarily fix the issue that might have to be fixed later, in the case of a success. Write throwaway code. Don’t build QA tools. Don’t prepare for the Maserati problem of having a million users.
-- Ignore your customers
+7. Ignore your customers
 	- Customer complaints may be one of those fires you let burn so it doesn’t slow you down.
 	- Offer light support, or possibly self-service support only.
 	- [This is pretty controversial advice, since your early customers might make a huge difference in long-term reputation and virality.]
-- Raise too much money
+8. Raise too much money
 	- Subject to the planning fallacy, you’ll underestimate the number of difficulties you’ll run into. You’ll raise for a best case scenario, and not having enough money might kill your company.
 	- "Act like you’ve got half the amount you have in the bank."
 	- At the same time, spend money only to fix things on the critical path to reach the next phase of scale.
 	- [Note again the incentives of a VC telling you to take more money.]
-- Evolve your culture
+9. Evolve your culture
 	- Culture is a shared way of doing things. It helps people make the right decisions autonomously. Unclear, hazy cultures get in the way of implementing strategy.
 	- Every employee should have answers to these questions:
 		- What is your org trying to do?
@@ -438,6 +449,9 @@ The progression of the founder:
 		- What acceptable risks are you incurring to achieve those goals more quickly?
 		- When you have to trade off certain values, which ones take priority?
 		- What kind of behavior do you hire, promote, or fire for?
+	
+	#### Build a "Ship of Theseus"
+	
 	- The company is like a Ship of Theseus – all the people may change, but the company should stay the same culturally. Employees should be aware they have responsibility for re-creating the culture as it grows.
 	- Consider office design, written memos, communication channels (eg weekly emails, [Netflix culture deck](https://jobs.netflix.com/culture)) to encourage your cultural values.
 	- Don’t hire so narrowly to fit a stereotype that you end up having groupthink. Hire people who are additive to your culture.
@@ -506,4 +520,4 @@ The final chapter of Blitzscaling is Reid Hoffman opining about the inevitabilit
 
 Liked this book summary? Visit [www.allencheng.com](https://www.allencheng.com) for more. 
 
-Markdown formatting by [Gilbert](https://twitter.com/samiq).
+Markdown formatting by [Gilbert Corrales](https://twitter.com/samiq).
