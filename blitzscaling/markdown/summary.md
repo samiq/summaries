@@ -261,7 +261,7 @@ It’s hard to find an opportunity in a hot space. If an opportunity is obvious,
 Pursuing an opportunity that conventional wisdom ignores gives you time to refine your strategy. There were plenty of reasons for Google, Facebook, Airbnb, Uber to not work – and in fact many investors passed on them.
 
 "Brilliant thinking is rare, but courage is in even shorter supply than genius." – Peter Thiel
- 
+
 ## 3: Strategy Innovation
 
 This chapter of Blitzscaling discusses the choice of whether to blitzscale and when.
@@ -329,7 +329,7 @@ Examples:
 
 - Apple did this first with iPod, then iTunes, then iPhone, then iPad.
 - Facebook did this first with desktop, then mobile.
- 
+
 ## 4: Management Innovation
 
 [This is the longest chapter of Blitzscaling, I suspect because creating successful business models is the least predictable and formulaic part (even professional investors have a hard time spotting winners), while management and operations is relatively predictable.]
