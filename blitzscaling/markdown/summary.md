@@ -46,7 +46,7 @@ Finally, like most startup/management advice, Blitzscaling focuses more on opera
 This isn’t the authors’ fault: vetting good ideas that will work is a hard problem, and even professional investors have a low batting average. Plus, many valuable ideas are contrarian and thus by definition unteachable; the more "obviously good" ideas will have been competed away.
 
 To set your expectations, Blitzscaling answers these questions: "What attributes are common to winner-take-all markets, and to strategies that benefit from blitzscaling? When should you blitzscale? And mostly, how do you blitzscale?"
- 
+
 ## Introduction
 
 In markets where Internet technology is a dominant factor, there are powerful winner-take-all dynamics. The first company to achieve a critical mass can dominate its industry for a long time.
@@ -60,7 +60,7 @@ Thus, for companies vying for market dominance, it’s imperative to move fast a
 - Why do you need to grow fast?
 - In what situations should you grow fast? When do you not?
 - How do you grow fast? What problems slow you down, and how do you fix them?
- 
+
 ## 1: What is Blitzscaling?
 
 Traditional business strategy involves gathering information and making decisions with a certain degree of confidence. Take calculated risks that you can measure and afford. Prioritise correctness and efficiency over speed.
